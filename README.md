@@ -12,3 +12,5 @@
 - https://fontawesome.com/, 폰트어썸
 - https://www.favicon-generator.org/, 파비콘 생성
 - https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/splice, MDN splice()
+- https://kr.vuejs.org/v2/examples/modal.html, Vuejs, 모달
+- https://babeljs.io/repl/, Babel 온라인 에디터
