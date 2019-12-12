@@ -1,4 +1,4 @@
-#[ES6] Modules - 자바스크립트 모듈화 방법
+# [ES6] Modules - 자바스크립트 모듈화 방법
 
 # Modules
 - ES5에서는 모듈화 방법이 업었음(파일을 나누어도 스코프는 동일)
@@ -25,6 +25,7 @@ sum(1, 2);
 - export 간에는 다른 스코프를 가짐.
 
 <br>
+
 ### :four_leaf_clover: export default
 ```javascript
 // util.js
