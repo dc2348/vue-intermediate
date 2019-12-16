@@ -17,3 +17,4 @@
 - https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/, 자바스크립트 비동기 처리와 콜백 함수
 - https://joshua1988.github.io/web-development/javascript/promise-for-beginners/, 자바스크립트 Promise 쉽게 이해하기
 - https://vuex.vuejs.org/kr/installation.html, Vuex 공식사이트
+- https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/, 한빛 미디어 초심자를 위한 Github
